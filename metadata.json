@@ -1,0 +1,8 @@
+{
+  "name": "Live Gold Price India",
+  "description": "Live, city-wise gold rates for 24K, 22K, and 18K gold across Indian cities with automatic 10-second updates, interactive price charts, and high-resolution shareable rate cards for WhatsApp and social media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
